@@ -1,2 +1,2 @@
 # TEMPLEAT
-Template for learn web
+Template by Bootstrap
